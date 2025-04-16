@@ -2,3 +2,8 @@ https://raw.githubusercontent.com/firefly-iii/docker/main/docker-compose.yml
 
 https://raw.githubusercontent.com/firefly-iii/firefly-iii/main/.env.example
 https://raw.githubusercontent.com/firefly-iii/docker/main/database.env
+
+docker compose -f docker-compose.yml up -d --pull=always
+
+
+
